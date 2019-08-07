@@ -24,3 +24,6 @@ square(110,70)
 t.circle(50)
 while(True):
     print(".")
+
+
+#fefwe
